@@ -1,7 +1,6 @@
 <?php
 
-require_once('autoload.php');
-//maaf pak untuk autoloadnya dividio bapak yang dikirim tidak ada ditampilkan
+require_once('vendor/autoload.php');
 
 use App\MahasiswaBaru;
 
